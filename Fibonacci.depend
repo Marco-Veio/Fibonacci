@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462586780 source:c:\users\marco aurélio\desktop\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1465526013 source:c:\users\marco aurélio\documents\codeblocks\projetos\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
